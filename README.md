@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rinki Jha</h1>
-<h3 align="center">🚀 Passionate Full-Stack Developer | ML Enthusiast | Problem Solver</h3>
+<h3 align="center">🚀 Passionate Full-Stack Developer | Problem Solver</h3>
 
 ---
 
 ### 👩‍💻 About Me  
-- 🔭 I’m currently working on **Career Recommendation Platform (AI + ML based)**  
+- 🔭 I’m currently working on **Career Recommendation Platform **  
 - 🌱 I’m learning **Machine Learning, Node.js, and Full-Stack Development**  
 - 💡 I love **solving coding challenges** — 400+ problems solved on LeetCode!  
 - 💬 Ask me about **Java, JavaScript, Node.js, MongoDB, Express, React, and AI**  
