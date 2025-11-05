@@ -4,7 +4,7 @@
 ---
 
 ### 👩‍💻 About Me  
-- 🔭 I’m currently working on **Career Recommendation Platform **  
+- 🔭 I’m currently working on **Career Recommendation Platform**  
 - 🌱 I’m learning **Machine Learning, Node.js, and Full-Stack Development**  
 - 💡 I love **solving coding challenges** — 400+ problems solved on LeetCode!  
 - 💬 Ask me about **Java, JavaScript, Node.js, MongoDB, Express, React, and AI**  
@@ -35,21 +35,27 @@
 ---
 
 ### 💻 Tech Stack  
-#### Frontend  
+
+#### 🧠 Languages  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### 🎨 Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-#### Backend  
+#### ⚙️ Backend  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-#### Database  
+#### 🗄️ Database  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### Tools & Others  
+#### 🧰 Tools & Others  
 ![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -73,9 +79,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rinki4738&theme=onedark&no-frame=true&row=1&column=6" alt="Trophies"/>
 </p>
-
----
-
 
 ---
 
